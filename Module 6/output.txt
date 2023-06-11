@@ -1,5 +1,1 @@
-24
-Hello from Moon namespaces
-Hello from Sun namespaces
-Hello from Sun namespaces
-24
+54321
